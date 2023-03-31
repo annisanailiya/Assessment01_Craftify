@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Craftify</string>
+    <string name="craftify">Craftify</string>
+    <string name="nama">Masukkan nama anda</string>
+    <string name="masuk">Masuk</string>
+    <string name="intro">Aplikasi ini menyediakan beberapa list tentang kerajinan tangan,\nmulai dari barang bekas dan juga barang baru.\nTingkatkan Kreativitasmu!!!</string>
+    <string name="view">Lihat List</string>
+    <string name="nama_invalid">Tolong isi nama anda terlebih dulu!</string>
 </resources>
